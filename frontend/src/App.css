@@ -50,5 +50,11 @@ body {
   flex-direction: row;
 }
 
+.index{
+  background: rgb(248, 244, 236);
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: -10px 10px 5px 5px black;
+}
 
 
